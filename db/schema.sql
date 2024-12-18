@@ -19,3 +19,6 @@ CREATE TABLE `cities` (
   KEY `c_code_idx` (`country_code`),
   FULLTEXT KEY `city_idx` (`city`)
 ) ENGINE=InnoDB AUTO_INCREMENT=6223666 DEFAULT CHARSET=latin1;
+
+
+
